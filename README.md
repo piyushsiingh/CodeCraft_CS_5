@@ -35,4 +35,10 @@ sudo python3 ethical_sniffer.py
 
 --- 
 
+## 👤 Author
+**Piyush Singh**  
+📧 piyush.siingh2005@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/piyush-singh-0b276332a)
 
+## 📄 License
+MIT License
