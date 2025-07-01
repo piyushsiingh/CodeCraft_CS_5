@@ -31,7 +31,8 @@ This tool is intended **only for educational purposes**.
 ## 📦 How to Run
 ```bash
 sudo python3 ethical_sniffer.py
+```
 
----
+--- 
 
-##
+
